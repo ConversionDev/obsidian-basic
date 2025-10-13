@@ -1,3 +1,11 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "일일노트",
+  "attachmentFolderPath": "파일"
 }

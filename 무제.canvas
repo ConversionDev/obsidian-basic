@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"981ab634fdf2e2f7","type":"file","file":"테스트/asdsd.md","x":-520,"y":-420,"width":220,"height":220},
-		{"id":"d665fdedf34abd90","type":"file","file":"테스트/asdsad.md","x":-240,"y":-530,"width":220,"height":220,"color":"5"}
-	],
-	"edges":[]
-}
