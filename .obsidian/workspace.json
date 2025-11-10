@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "2025-11-07"
             }
+          },
+          {
+            "id": "21b6b5f98dbbf33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-11-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-10"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -278,8 +302,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "975230c8f13f3e12",
+  "active": "21b6b5f98dbbf33d",
   "lastOpenFiles": [
+    "파일/Pasted image 20251110163951.png",
+    "파일/Pasted image 20251110155753.png",
+    "파일/Pasted image 20251110155708.png",
+    "파일/Pasted image 20251110155242.png",
+    "파일/Pasted image 20251110155051.png",
+    "파일/Pasted image 20251110154914.png",
+    "파일/Pasted image 20251110151918.png",
+    "템플릿/오늘 공부 기록.md",
+    "일일노트/2025-11-10.md",
+    "파일/Pasted image 20251110145444.png",
+    "파일/Pasted image 20251110123853.png",
+    "파일/Pasted image 20251110123506.png",
+    "파일/Pasted image 20251110123401.png",
+    "일일노트/2025-11-07.md",
     "일일노트/2025-10-24.md",
     "일일노트/2025-10-23.md",
     "일일노트/2025-10-22.md",
@@ -292,23 +330,10 @@
     "일일노트/2025-10-16.md",
     "일일노트/2025-10-17.md",
     "일일노트/2025-10-20.md",
-    "일일노트/2025-11-07.md",
-    "파일/Pasted image 20251107130451.png",
     "일일노트/2025-11-06.md",
-    "파일/Pasted image 20251107124832.png",
-    "파일/Pasted image 20251107121706.png",
-    "파일/Pasted image 20251107121551.png",
-    "파일/Pasted image 20251107121344.png",
-    "파일/Pasted image 20251107120626.png",
     "일일노트/2025-11-05.md",
-    "파일/Pasted image 20251107110757.png",
-    "파일/Pasted image 20251107110301.png",
-    "파일/Pasted image 20251107105429.png",
-    "파일/Pasted image 20251107101804.png",
     "일일노트/2025-11-03.md",
-    "일일노트/무제.md",
     "일일노트/2025-11-04.md",
-    "템플릿/오늘 공부 기록.md",
     "일일노트/2025-10-30.md",
     "일일노트/2025-10-31.md",
     "일일노트/2025-10-29.md",
