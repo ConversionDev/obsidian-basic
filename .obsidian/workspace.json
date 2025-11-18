@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "2025-11-14"
             }
+          },
+          {
+            "id": "3828702994556552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-11-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-17"
+            }
+          },
+          {
+            "id": "89c5d2076227461f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-11-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-18"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -230,30 +278,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8359572489da3003",
+  "active": "89c5d2076227461f",
   "lastOpenFiles": [
+    "일일노트/2025-11-17.md",
+    "일일노트/2025-11-18.md",
+    "파일/Pasted image 20251118172656.png",
+    "파일/Pasted image 20251118134159.png",
+    "파일/Pasted image 20251118134127.png",
+    "파일/20251118_130037.jpg",
+    "파일/20251118_130050.jpg",
+    "파일/Pasted image 20251118133805.png",
+    "파일/Pasted image 20251118133516.png",
+    "파일/Pasted image 20251118120437.png",
+    "파일/Pasted image 20251118115930.png",
+    "파일/Pasted image 20251118115731.png",
+    "일일노트/무제 1.md",
+    "일일노트/2025-11-14.md",
+    "일일노트/2025-11-10.md",
+    "일일노트/2025-11-12.md",
+    "일일노트/2025-11-13.md",
+    "일일노트/2025-11-11.md",
     "일일노트/2025-10-30.md",
     "일일노트/2025-10-21.md",
     "일일노트/2025-10-20.md",
     "일일노트/2025-10-17.md",
     "일일노트/2025-10-16.md",
     "일일노트/2025-10-23.md",
-    "일일노트/2025-11-14.md",
-    "파일/Pasted image 20251114154851.png",
-    "파일/Pasted image 20251114145727.png",
-    "일일노트/2025-11-12.md",
-    "일일노트/2025-11-11.md",
-    "일일노트/2025-11-13.md",
-    "파일/Pasted image 20251114141609.png",
-    "파일/Pasted image 20251114131858.png",
-    "파일/Pasted image 20251114131803.png",
-    "파일/Pasted image 20251114105419.png",
-    "파일/Pasted image 20251114105206.png",
-    "파일/Pasted image 20251114104534.png",
-    "파일/Pasted image 20251114101916.png",
-    "파일/Pasted image 20251114101708.png",
-    "일일노트/무제.md",
-    "일일노트/2025-11-10.md",
     "일일노트/2025-11-07.md",
     "일일노트/2025-11-06.md",
     "일일노트/2025-11-05.md",
@@ -265,8 +315,6 @@
     "일일노트/2025-10-01.md",
     "일일노트/2025-10-14.md",
     "일일노트/2025-10-15.md",
-    "일일노트/2025-11-03.md",
-    "일일노트/2025-11-04.md",
     "Untitled.canvas",
     "일일노트",
     "파일",
