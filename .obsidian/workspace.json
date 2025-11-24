@@ -176,6 +176,30 @@
             }
           },
           {
+            "id": "15f51634908a3a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-11-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-22"
+            }
+          },
+          {
             "id": "247d806b7cec1963",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -232,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "어나니",
+                "query": "힙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -350,12 +374,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b403c380cb10b8dc",
+  "active": "15f51634908a3a6a",
   "lastOpenFiles": [
-    "일일노트/2025-11-03.md",
+    "파일/Pasted image 20251124154740.png",
     "일일노트/2025-11-21.md",
+    "일일노트/2025-11-22.md",
+    "파일/Pasted image 20251124141701.png",
+    "일일노트/2025-11-10.md",
     "일일노트/2025-11-19.md",
+    "일일노트/2025-10-14.md",
+    "일일노트/2025-10-13.md",
     "일일노트/2025-11-20.md",
+    "파일/Pasted image 20251124095550.png",
+    "일일노트/2025-11-03.md",
     "파일/Pasted image 20251121190752.png",
     "파일/Pasted image 20251121190716.png",
     "파일/20251121_160834[1].jpg",
@@ -365,18 +396,15 @@
     "파일/Pasted image 20251120124706.png",
     "파일/Pasted image 20251120115032.png",
     "파일/Pasted image 20251120112339.png",
-    "일일노트/2025-11-10.md",
     "일일노트/2025-11-12.md",
     "일일노트/2025-11-11.md",
     "전략패턴/Zustand Store 전략 문서.md",
     "전략패턴",
-    "파일/Pasted image 20251119112125.png",
     "일일노트/2025-11-18.md",
     "일일노트/2025-11-13.md",
     "일일노트/2025-10-28.md",
     "일일노트/2025-11-17.md",
     "일일노트/2025-10-22.md",
-    "파일/Pasted image 20251118172656.png",
     "일일노트/무제 1.md",
     "일일노트/2025-11-14.md",
     "일일노트/2025-10-30.md",
@@ -385,10 +413,6 @@
     "일일노트/2025-10-17.md",
     "일일노트/2025-10-16.md",
     "일일노트/2025-10-23.md",
-    "일일노트/2025-11-07.md",
-    "일일노트/2025-11-06.md",
-    "일일노트/2025-11-05.md",
-    "일일노트/2025-10-24.md",
     "Untitled.canvas",
     "일일노트",
     "파일",
