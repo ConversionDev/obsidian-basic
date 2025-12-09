@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2e72110d9ffe5499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-12-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-09"
+            }
+          },
+          {
             "id": "a7f6926969dd06d8",
             "type": "leaf",
             "state": {
@@ -151,7 +175,8 @@
               "title": "2025-12-08"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -301,24 +326,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8a7f6ab9d92b6df",
+  "active": "2e72110d9ffe5499",
   "lastOpenFiles": [
+    "일일노트/2025-12-08.md",
+    "일일노트/2025-12-05.md",
+    "일일노트/2025-12-09.md",
+    "파일/Pasted image 20251209154628.png",
+    "파일/Pasted image 20251209124937.png",
     "파일/Pasted image 20251208163850.png",
     "파일/Pasted image 20251208155555.png",
     "파일/Pasted image 20251208155345.png",
     "파일/Pasted image 20251208153748.png",
     "파일/Pasted image 20251208144346.png",
-    "일일노트/2025-12-05.md",
-    "일일노트/2025-12-08.md",
     "파일/Pasted image 20251208104139.png",
     "파일/Pasted image 20251208103418.png",
     "파일/Pasted image 20251208101720.png",
-    "파일/Pasted image 20251208101651.png",
-    "파일/Pasted image 20251208100948.png",
     "일일노트/2025-12-04.md",
     "일일노트/2025-12-03.md",
     "일일노트/2025-11-27.md",
-    "파일/Pasted image 20251205160532.png",
     "템플릿/오늘 공부 기록.md",
     "일일노트/2025-11-28.md",
     "일일노트/2025-10-29.md",
@@ -338,7 +363,6 @@
     "일일노트/2025-11-03.md",
     "일일노트/2025-11-12.md",
     "일일노트/2025-11-11.md",
-    "전략패턴/Zustand Store 전략 문서.md",
     "전략패턴",
     "Untitled.canvas",
     "일일노트",
