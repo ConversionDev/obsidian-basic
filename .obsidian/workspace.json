@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일일노트/2025-12-12.md",
+                "file": "일일노트/2025-10-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "2025-10-20"
+            }
+          },
+          {
+            "id": "a9574f91467e2347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-12-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-15"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "파인",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +109,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,27 +206,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de07d3fdbc99f519",
+  "active": "a9574f91467e2347",
   "lastOpenFiles": [
+    "일일노트/2025-12-12.md",
+    "일일노트/2025-12-10.md",
+    "일일노트/2025-12-11.md",
+    "일일노트/2025-12-09.md",
+    "일일노트/2025-12-15.md",
+    "파일/Pasted image 20251215110546.png",
+    "파일/Pasted image 20251215110058.png",
+    "파일/Pasted image 20251215104452.png",
+    "파일/Pasted image 20251215104414.png",
+    "파일/Pasted image 20251215101520.png",
+    "일일노트/2025-10-20.md",
     "파일/Pasted image 20251212170924.png",
     "파일/Pasted image 20251212155738.png",
     "파일/Pasted image 20251212154632.png",
     "파일/Pasted image 20251212151914.png",
     "파일/Pasted image 20251212151559.png",
-    "파일/Pasted image 20251212151520.png",
-    "파일/Pasted image 20251212151117.png",
-    "파일/Pasted image 20251212150817.png",
-    "파일/Pasted image 20251212131148.png",
-    "파일/Pasted image 20251212114416.png",
-    "일일노트/2025-12-11.md",
-    "일일노트/2025-12-12.md",
-    "파일/Pasted image 20251212110629.png",
     "일일노트/2025-12-08.md",
     "일일노트/2025-12-05.md",
     "일일노트/2025-12-04.md",
     "일일노트/2025-12-03.md",
-    "일일노트/2025-12-09.md",
-    "일일노트/2025-12-10.md",
     "일일노트/2025-11-27.md",
     "템플릿/오늘 공부 기록.md",
     "일일노트/2025-11-28.md",
@@ -218,8 +243,6 @@
     "일일노트/2025-11-13.md",
     "일일노트/2025-10-16.md",
     "일일노트/2025-11-18.md",
-    "일일노트/2025-10-14.md",
-    "일일노트/2025-10-13.md",
     "전략패턴",
     "Untitled.canvas",
     "일일노트",
