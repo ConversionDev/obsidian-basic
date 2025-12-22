@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일일노트/2025-12-17.md",
+                "file": "일일노트/2025-12-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-17"
+              "title": "2025-12-18"
+            }
+          },
+          {
+            "id": "916932bcf489faa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-12-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-22"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postgre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,55 +278,56 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1c492e1a13e4e2a",
+  "active": "916932bcf489faa7",
   "lastOpenFiles": [
-    "일일노트/2025-11-17.md",
-    "일일노트/2025-11-14.md",
-    "일일노트/2025-12-17.md",
-    "파일/Pasted image 20251217145035.png",
-    "파일/Pasted image 20251217144726.png",
-    "일일노트/2025-12-15.md",
-    "일일노트/2025-12-16.md",
-    "파일/Pasted image 20251217101354.png",
-    "파일/Pasted image 20251216151930.png",
-    "파일/Pasted image 20251216130322.png",
-    "일일노트/2025-10-27.md",
-    "파일/Pasted image 20251216110921.png",
-    "파일/Pasted image 20251216100322.png",
-    "파일/Pasted image 20251216095802.png",
-    "파일/Pasted image 20251216095756.png",
-    "일일노트/2025-12-12.md",
-    "일일노트/2025-12-10.md",
-    "일일노트/2025-12-11.md",
-    "일일노트/2025-12-09.md",
-    "파일/Pasted image 20251215110546.png",
-    "일일노트/2025-10-20.md",
-    "일일노트/2025-12-08.md",
+    "파일/Pasted image 20251222192311.png",
+    "파일/Pasted image 20251222191922.png",
+    "파일/Pasted image 20251222191855.png",
+    "파일/Pasted image 20251222191653.png",
     "일일노트/2025-12-05.md",
-    "일일노트/2025-12-04.md",
-    "일일노트/2025-12-03.md",
-    "일일노트/2025-11-27.md",
-    "템플릿/오늘 공부 기록.md",
-    "일일노트/2025-11-28.md",
-    "일일노트/2025-10-29.md",
-    "일일노트/2025-11-10.md",
-    "일일노트/2025-11-26.md",
-    "일일노트/2025-11-25.md",
+    "일일노트/2025-12-22.md",
+    "파일/Pasted image 20251222125236.png",
+    "파일/Pasted image 20251222124159.png",
+    "파일/Pasted image 20251222122114.png",
+    "파일/Pasted image 20251222120954.png",
+    "파일/Pasted image 20251222120945.png",
+    "파일/Pasted image 20251222120850.png",
+    "일일노트/2025-12-18.md",
+    "일일노트/2025-11-14.md",
+    "일일노트/2025-10-16.md",
+    "파일/Pasted image 20251222111906.png",
     "일일노트/2025-11-22.md",
-    "일일노트/2025-11-21.md",
-    "일일노트/2025-11-20.md",
-    "일일노트/2025-11-19.md",
-    "전략패턴",
+    "새 폴더/obsidian-main/12월/25-12-18/3. GitHub Actions를 통한 FastAPI EC2 배포 전략.md",
+    "새 폴더/obsidian-main/12월/25-12-18/2. 아마존 요금폭탄 피하기.md",
+    "새 폴더/obsidian-main/12월/25-12-18/1. 25-12-18 오전 수업기록.md",
+    "새 폴더/obsidian-main/사진",
+    "새 폴더/obsidian-main/MD/~25-11-25/6. 251125게이트웨이 웹플럭스로 전환, 게이트웨이를 논블로킹으로 전환하는 전략.md",
+    "새 폴더/obsidian-main/MD/~25-11-25/5. 251124 무상태 프로그래밍을 위한 레디스 설치.md",
+    "새 폴더/obsidian-main/MD/~25-11-25/4. 최종 전략 - YS.md",
+    "새 폴더/obsidian-main/MD/~25-11-25/3. SRC APP 등등 구조 반영한 최종 버전.md",
+    "새 폴더/obsidian-main/MD/~25-11-25/2. 팀 에이전트 및 맥락 고려해서 전략 수정 프롬프트.md",
+    "새 폴더/obsidian-main/MD/~25-11-25/1. 커서 zustand 다운로드 전략 요청 내용 (슬라이스 분리).md",
+    "새 폴더/obsidian-main/MD/25-12-10/251210-1 CCTV와 인구 데이터 머지 전략.md",
+    "새 폴더/obsidian-main/MD/25-12-04/251204-3 백-프론트 합쳐진 프로젝트에서 구글로그인.md",
+    "새 폴더/obsidian-main/MD/25-12-04/251204-2 구글 로그인 전략(프론트)-개인프로젝트.md",
+    "새 폴더/obsidian-main/MD/25-12-04/251204-1 구글 로그인 전략(백)-개인프로젝트.md",
+    "새 폴더/obsidian-main/MD/25-12-03/251203-1업스테쉬 REST API or TCP.md",
+    "새 폴더/obsidian-main/MD/25-12-02/251202-1 ai 게이트웨이- api게이트웨이 통합.md",
+    "새 폴더/obsidian-main/MD/25-12-01/251201-2 1번 지피티 검토 후 커서 전략 수정.md",
+    "새 폴더/obsidian-main/MD/25-12-01/251201-1 api에서 유레카, lb 없애기.md",
+    "새 폴더/obsidian-main/MD/25-11-26/251126-7 네이버 전략_프론트.md",
+    "새 폴더/obsidian-main/MD/25-11-26/251126-6 카카오 로그인 구현_토큰 받기_프론트.md",
+    "새 폴더/obsidian-main/MD/~25-11-25",
+    "새 폴더/obsidian-main/MD/25-12-10",
+    "새 폴더/obsidian-main/MD/25-12-04",
+    "새 폴더/obsidian-main/MD/25-12-03",
+    "새 폴더/obsidian-main/MD/25-12-02",
+    "새 폴더/obsidian-main/MD/25-12-01",
+    "새 폴더/obsidian-main/MD/25-11-26",
+    "새 폴더/obsidian-main/MD",
+    "새 폴더/obsidian-main/9-10월/25-10-31",
     "Untitled.canvas",
-    "일일노트",
-    "파일",
-    "무제.base",
     "무제.canvas",
-    "무제 2.base",
-    "템플릿",
-    "무제 1.base",
-    "테스트",
-    "무제 1.canvas",
-    "첫메모.base"
+    "무제 1.canvas"
   ]
 }
