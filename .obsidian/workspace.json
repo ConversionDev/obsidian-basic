@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2025-12-24"
             }
+          },
+          {
+            "id": "f438d27bc3b4a1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-12-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-26"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:외부에서",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,8 +230,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b2556b32c655bbd",
+  "active": "f438d27bc3b4a1f7",
   "lastOpenFiles": [
+    "일일노트/2025-12-24.md",
+    "일일노트/2025-12-26.md",
+    "파일/Pasted image 20251226101610.png",
+    "파일/Pasted image 20251226101503.png",
+    "일일노트/2025-12-22.md",
+    "일일노트/2025-12-23.md",
+    "일일노트/2025-12-18.md",
     "일일노트/2025-12-05.md",
     "일일노트/2025-12-03.md",
     "일일노트/2025-12-08.md",
@@ -215,10 +246,6 @@
     "일일노트/2025-12-10.md",
     "일일노트/2025-12-12.md",
     "일일노트/2025-12-17.md",
-    "일일노트/2025-12-22.md",
-    "일일노트/2025-12-18.md",
-    "일일노트/2025-12-23.md",
-    "일일노트/2025-12-24.md",
     "파일/Pasted image 20251224155019.png",
     "파일/Pasted image 20251224154537.png",
     "파일/Pasted image 20251224131009.png",
@@ -228,8 +255,6 @@
     "파일/Pasted image 20251224115540.png",
     "파일/Pasted image 20251224095949.png",
     "파일/Pasted image 20251223101050.png",
-    "파일/Pasted image 20251223100509.png",
-    "파일/Pasted image 20251223100340.png",
     "일일노트/2025-11-14.md",
     "일일노트/2025-10-16.md",
     "일일노트/2025-11-22.md",
@@ -243,8 +268,6 @@
     "새 폴더/obsidian-main/MD/~25-11-25/3. SRC APP 등등 구조 반영한 최종 버전.md",
     "새 폴더/obsidian-main/MD/~25-11-25/2. 팀 에이전트 및 맥락 고려해서 전략 수정 프롬프트.md",
     "새 폴더/obsidian-main/MD/~25-11-25/1. 커서 zustand 다운로드 전략 요청 내용 (슬라이스 분리).md",
-    "새 폴더/obsidian-main/MD/25-12-10/251210-1 CCTV와 인구 데이터 머지 전략.md",
-    "새 폴더/obsidian-main/MD/25-12-04/251204-3 백-프론트 합쳐진 프로젝트에서 구글로그인.md",
     "새 폴더/obsidian-main/MD/~25-11-25",
     "새 폴더/obsidian-main/MD/25-12-10",
     "새 폴더/obsidian-main/MD/25-12-04",
