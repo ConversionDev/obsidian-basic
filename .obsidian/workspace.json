@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e7f8b45322b915b",
+            "id": "eb7773b0327b473b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일일노트/2026-01-02.md",
+                "file": "일일노트/2026-01-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-02"
+              "title": "2026-01-08"
+            }
+          },
+          {
+            "id": "d4700fc97bfa59f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2026-01-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-09"
+            }
+          },
+          {
+            "id": "660a5be517f2a0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2026-01-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-08"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uri",
+                "query": "nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,23 +230,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e7f8b45322b915b",
+  "active": "d4700fc97bfa59f7",
   "lastOpenFiles": [
-    "파일/Pasted image 20260102153054.png",
-    "파일/Pasted image 20260102152315.png",
-    "파일/Pasted image 20260102152257.png",
-    "파일/Pasted image 20260102152225.png",
-    "파일/Pasted image 20260102145558.png",
-    "일일노트/2025-12-31.md",
+    "일일노트/2026-01-08.md",
+    "일일노트/2026-01-09.md",
+    "파일/Pasted image 20260109114404.png",
+    "파일/Pasted image 20260109113754.png",
+    "파일/Pasted image 20260109101153.png",
+    "파일/Pasted image 20260109101026.png",
+    "파일/Pasted image 20260108165615.png",
+    "파일/Pasted image 20260108164759.png",
+    "파일/Pasted image 20260108164721.png",
+    "파일/Pasted image 20260108164553.png",
+    "파일/Pasted image 20260108154441.png",
+    "파일/Pasted image 20260108154439.png",
+    "일일노트/2025-12-11.md",
+    "일일노트/2026-01-07.md",
     "일일노트/2026-01-02.md",
+    "일일노트/2026-01-05.md",
+    "일일노트/2026-01-06.md",
+    "일일노트/2025-10-29.md",
+    "일일노트/2025-11-22.md",
+    "일일노트/2025-12-31.md",
     "일일노트/2025-12-29.md",
-    "파일/Pasted image 20251231171523.png",
-    "파일/Pasted image 20251231155028.png",
-    "파일/Pasted image 20251231154911.png",
     "일일노트/2025-12-30.md",
-    "파일/Pasted image 20251231122623.png",
-    "파일/Pasted image 20251231120217.png",
-    "파일/Pasted image 20251231113707.png",
     "일일노트/2025-11-18.md",
     "일일노트/2025-12-09.md",
     "일일노트/2025-12-24.md",
@@ -211,15 +267,7 @@
     "일일노트/2025-12-10.md",
     "일일노트/2025-12-12.md",
     "일일노트/2025-12-17.md",
-    "일일노트/2025-12-15.md",
-    "일일노트/2025-11-14.md",
-    "일일노트/2025-10-16.md",
-    "일일노트/2025-11-22.md",
-    "새 폴더/obsidian-main/12월/25-12-18/3. GitHub Actions를 통한 FastAPI EC2 배포 전략.md",
-    "새 폴더/obsidian-main/12월/25-12-18/2. 아마존 요금폭탄 피하기.md",
-    "새 폴더/obsidian-main/12월/25-12-18/1. 25-12-18 오전 수업기록.md",
     "새 폴더/obsidian-main/사진",
-    "새 폴더/obsidian-main/MD/~25-11-25/6. 251125게이트웨이 웹플럭스로 전환, 게이트웨이를 논블로킹으로 전환하는 전략.md",
     "새 폴더/obsidian-main/MD/~25-11-25",
     "새 폴더/obsidian-main/MD/25-12-10",
     "새 폴더/obsidian-main/MD/25-12-04",
