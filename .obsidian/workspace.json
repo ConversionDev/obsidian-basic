@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06794fb81e5beb28",
+            "id": "e2297d93907cc08b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일일노트/2026-01-26.md",
+                "file": "일일노트/2026-01-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-26"
+              "title": "2026-01-29"
+            }
+          },
+          {
+            "id": "b20ee99047eba9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2026-01-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-30"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx",
+                "query": "alche",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,25 +206,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06794fb81e5beb28",
+  "active": "b20ee99047eba9fb",
   "lastOpenFiles": [
+    "일일노트/무제.md",
+    "일일노트/2026-01-29.md",
+    "일일노트/2026-01-30.md",
+    "일일노트/2026-01-27.md",
+    "일일노트/2026-01-08.md",
+    "일일노트/2026-01-28.md",
+    "일일노트/2026-01-21.md",
+    "파일/Pasted image 20260129131322.png",
+    "일일노트/2026-.md",
+    "파일/Pasted image 20260127180206.png",
+    "파일/Pasted image 20260127151526.png",
+    "파일/Pasted image 20260127095229.png",
+    "일일노트/2026-01-26.md",
     "파일/Pasted image 20260126190328.png",
     "파일/Pasted image 20260126190304.png",
     "파일/Pasted image 20260126144130.png",
     "일일노트/2026-01-22.md",
-    "일일노트/2026-01-26.md",
     "전략패턴/주말.md",
     "파일/Pasted image 20260124142845.png",
-    "일일노트/2026-01-21.md",
     "일일노트/2026-01-19.md",
     "일일노트/2026-01-20.md",
     "파일/Pasted image 20260121172221.png",
     "파일/Pasted image 20260121171931.png",
-    "파일/Pasted image 20260121165758.png",
-    "파일/Pasted image 20260121155359.png",
-    "파일/Pasted image 20260121154213.png",
-    "파일/Pasted image 20260121151933.png",
-    "파일/Pasted image 20260121151847.png",
     "일일노트/2026-01-16.md",
     "일일노트/2025-11-14.md",
     "일일노트/2025-12-16.md",
@@ -213,12 +244,6 @@
     "일일노트/2026-01-14.md",
     "일일노트/2026-01-13.md",
     "일일노트/2026-01-12.md",
-    "일일노트/2026-01-09.md",
-    "일일노트/2026-01-08.md",
-    "일일노트/2026-01-07.md",
-    "일일노트/2026-01-06.md",
-    "일일노트/2026-01-05.md",
-    "일일노트/2026-01-02.md",
     "obsidian-main/사진",
     "obsidian-main/MD/~25-11-25",
     "obsidian-main/MD/25-12-10",
