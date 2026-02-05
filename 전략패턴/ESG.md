@@ -1,0 +1,3 @@
+- 전 세계 ESG 공시의 기준이 하나의 국제표준(IFRS 기반)으로 통합
+- 제정한 기관이 ISSB(International Sustainability Standards Board)이며
+- 그 핷
